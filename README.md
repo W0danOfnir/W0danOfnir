@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Kamel 👋
 
-<!--
-**W0danOfnir/W0danOfnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer Support professional at Apple with strong technical troubleshooting experience and growing development skills.
 
-Here are some ideas to get you started:
+## Current focus 🚀
+- Python
+- Machine Learning
+- Automation
+- Support engineering tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical skills 💻
+- Python
+- HTML
+- JavaScript
+- AI / ML fundamentals
+
+## Projects 📂
+- Support Ticket Classifier
+- Log Analyzer Python
+
+## Languages 🌍
+- English (C2)
+- French (C2)
+- Arabic (B1)
+- Icelandic (A2)
+
+## Career goal 🎯
+Transitioning toward technical support engineering, developer support, and automation-focused roles.
